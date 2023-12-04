@@ -6,9 +6,11 @@ body {
 }
 
 header {
+	border-bottom: 2px solid grey;
+	box-shadow: 0 0 1rem #ccc;
 	padding: 1rem 1.5rem;
 
-	nav {
+	& nav {
 		display: flex;
 		gap: 1rem;
 	}

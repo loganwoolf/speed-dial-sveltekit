@@ -1,6 +1,6 @@
 <script lang="ts">
-	import '$lib/app.css';
-	import { navItems } from '$lib/nav';
+	import '../app.css';
+	import { navItems } from '$lib/nav-items';
 </script>
 
 <header>
